@@ -1,0 +1,18 @@
+nav {
+    background-color: #6baef0; 
+    padding: 10px;
+    text-align: center; 
+    position: absolute; 
+    width: 100%; 
+  }
+  
+  nav ul {
+    list-style-type: none; 
+    padding: 0; 
+  }
+  
+  nav li {
+    display: inline; 
+    margin: 0 15px; 
+  }
+  
